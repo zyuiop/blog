@@ -30,6 +30,8 @@ url: "https://ceyal.me" # the base hostname & protocol for your site, e.g. http:
 
 show_excerpts: true
 
+include:
+  - assets/
 
 # Build settings
 theme: minima
